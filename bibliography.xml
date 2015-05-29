@@ -312,7 +312,7 @@
 			<auteur>Florian Boudin</auteur>
 			<auteur>Béatrice Daille</auteur>
 		</auteurs>
-		<titre>Influence des domaines de spécialité dans l’extraction de termes-clés</titre>
+		<titre>Influence des domaines de spécialité dans l'extraction de termes-clés</titre>
 		<desc>Traitement Automatique des Langues Naturelles</desc>
 		<abbr>TALN</abbr>
 		<annee>2014</annee>
@@ -524,7 +524,6 @@
 		<topic>ir</topic>
 	</article>
 
-
 	<article id="boudin-elbeze-torres:2008:TAC" type="workshop">
 		<auteurs>
 			<auteur>Florian Boudin</auteur>
@@ -601,7 +600,7 @@
 		<auteurs>
 			<auteur>Florian Boudin</auteur>
 		</auteurs>
-		<titre>Exploration d’approches statistiques pour le résumé automatique de texte</titre>
+		<titre>Exploration d'approches statistiques pour le résumé automatique de texte</titre>
 		<desc>Thèse de doctorat (Ph.D. Thesis)</desc>
 		<url>http://www.florianboudin.org/downloads/thesis_florian_boudin.pdf</url>
 		<bib>http://www.florianboudin.org/downloads/publications/boudin_phd.bib</bib>
