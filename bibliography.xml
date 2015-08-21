@@ -52,6 +52,22 @@
 
 	<!-- Articles de conférences internationales -->
 
+	<article id="boudin-mougard-favre:2015:EMNLP" type="intConf">
+		<auteurs>
+			<auteur>Florian Boudin</auteur>
+			<auteur>Hugo Mougard</auteur>
+			<auteur>Benoît Favre</auteur>
+		</auteurs>
+		<titre>Concept-based Summarization using Integer Linear Programming: From Concept Pruning to Multiple Optimal Solutions</titre>
+		<desc>Empirical Methods in Natural Language Processing</desc>
+		<abbr>EMNLP</abbr>
+		<annee>2015</annee>
+		<lieu>Lisbon (Portugal)</lieu>
+		<topic>nlp</topic>
+		<tauxAcceptation>24%</tauxAcceptation>
+		<longueur>short paper</longueur>
+	</article>
+
 	<article id="lacroix-bechet-boudin:2014:CICLING" type="intConf">
 		<auteurs>
 			<auteur>Ophélie Lacroix</auteur>
@@ -439,6 +455,40 @@
 
 
 	<!-- Articles d'ateliers -->
+
+	<article id="boudin:2015:Keyphrase" type="workshop">
+		<auteurs>
+			<auteur>Florian Boudin</auteur>
+		</auteurs>
+		<titre>Reducing Over-generation Errors for Automatic Keyphrase Extraction using Integer Linear Programming</titre>
+		<desc>Novel Computational Approaches to Keyphrase Extraction</desc>
+		<abbr>Keyphrase</abbr>
+		<annee>2015</annee>
+		<url>http://www.aclweb.org/anthology/W15-3605.pdf</url>
+		<bib>http://www.aclweb.org/anthology/W15-3605.bib</bib>
+		<hal>http://hal.archives-ouvertes.fr/hal-01185669</hal>
+		<lieu>Beijing (China)</lieu>
+		<topic>nlp</topic>
+	</article>
+
+	<article id="morin-hazem-boudin-loginova:2015:BUCC" type="workshop">
+		<auteurs>
+			<auteur>Emmanuel Morin</auteur>
+			<auteur>Amir Hazem</auteur>
+			<auteur>Florian Boudin</auteur>
+			<auteur>Elizaveta Loginova-Clouet</auteur>
+		</auteurs>
+		<titre>LINA: Identifying Comparable Documents from Wikipedia</titre>
+		<desc>Eighth Workshop on Building and Using Comparable Corpora</desc>
+		<abbr>BUCC</abbr>
+		<annee>2015</annee>
+		<url>http://www.aclweb.org/anthology/W15-3413.pdf</url>
+		<bib>http://www.aclweb.org/anthology/W15-3413.bib</bib>
+		<hal>http://hal.archives-ouvertes.fr/hal-01185670</hal>
+		<lieu>Beijing (China)</lieu>
+		<topic>nlp</topic>
+	</article>
+
 	<article id="deveaud-boudin:2013:INEX" type="workshop">
 		<auteurs>
 			<auteur>Romain Deveaud</auteur>
