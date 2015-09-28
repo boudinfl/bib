@@ -64,6 +64,9 @@
 		<annee>2015</annee>
 		<lieu>Lisbon (Portugal)</lieu>
 		<topic>nlp</topic>
+		<hal>http://hal.archives-ouvertes.fr/hal-01203750</hal>
+		<url>http://aclweb.org/anthology/D/D15/D15-1220.pdf</url>
+		<bib>http://aclweb.org/anthology/D/D15/D15-1220.bib</bib>
 		<tauxAcceptation>24%</tauxAcceptation>
 		<longueur>short paper</longueur>
 	</article>
