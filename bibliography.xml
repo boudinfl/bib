@@ -52,6 +52,23 @@
 
 	<!-- Articles de conférences internationales -->
 
+	<article id="bougouin-EtAL:2016:LREC" type="intConf">
+		<auteurs>
+			<auteur>Adrien Bougouin</auteur>
+			<auteur>Sabine Barreaux</auteur>
+			<auteur>Laurent Romary</auteur>
+			<auteur>Florian Boudin</auteur>
+			<auteur>Béatrice Daille</auteur>
+		</auteurs>
+		<titre>TermITH-Eval: a French Standard-Based Resource for Keyphrase Extraction Evaluation</titre>
+		<desc>Language Resources and Evaluation Conference</desc>
+		<abbr>LREC</abbr>
+		<annee>2016</annee>
+		<lieu>Portorož (Slovenia)</lieu>
+		<topic>nlp</topic>
+		<url>http://www.lrec-conf.org/proceedings/lrec2016/pdf/791_Paper.pdf</url>
+	</article>
+
 	<article id="boudin-mougard-favre:2015:EMNLP" type="intConf">
 		<auteurs>
 			<auteur>Florian Boudin</auteur>
@@ -325,6 +342,23 @@
 
 		
 	<!-- Articles de conférences nationales -->
+
+	<article id="bougouin-boudin-daille:2016:TALN" type="natConf">
+		<auteurs>
+			<auteur>Adrien Bougouin</auteur>
+			<auteur>Florian Boudin</auteur>
+			<auteur>Béatrice Daille</auteur>
+		</auteurs>
+		<titre>Modélisation unifiée du document et de son domaine pour une indexation par termes-clés libre et contrôlée</titre>
+		<desc>Traitement Automatique des Langues Naturelles</desc>
+		<abbr>TALN</abbr>
+		<annee>2016</annee>
+		<lieu>Paris (France)</lieu>
+		<topic>nlp</topic>
+		<url>https://jep-taln2016.limsi.fr/actes/Actes%20JTR-2016/Papers/T3.pdf</url>
+		<tauxAcceptation>56%</tauxAcceptation>
+	</article>
+
 	<article id="bougouin-boudin-daille:2014:TALN" type="natConf">
 		<auteurs>
 			<auteur>Adrien Bougouin</auteur>
@@ -458,6 +492,39 @@
 
 
 	<!-- Articles d'ateliers -->
+
+	<article id="daille-barreaux-boudin-bougouin-cram-hazem:2016:DEFT" type="workshop">
+		<auteurs>
+			<auteur>Béatrice Daille</auteur>
+			<auteur>Sabine Barreaux</auteur>
+			<auteur>Florian Boudin</auteur>
+			<auteur>Adrien Bougouin</auteur>
+			<auteur>Damien Cram</auteur>
+			<auteur>Amir Hazem</auteur>
+		</auteurs>
+		<titre>Indexation d'articles scientifiques : Présentation et résultats du défi fouille de textes DEFT 2016</titre>
+		<desc>Défi Fouille de Textes</desc>
+		<abbr>DEFT</abbr>
+		<annee>2016</annee>
+		<url>https://jep-taln2016.limsi.fr/actes/Actes%20JTR-2016/Papers/Ateliers/DEFT-1.pdf</url>
+		<lieu>Paris (France)</lieu>
+		<topic>nlp</topic>
+	</article>
+
+	<article id="bougouin-boudin-daille:2016:DEFT" type="workshop">
+		<auteurs>
+			<auteur>Adrien Bougouin</auteur>
+			<auteur>Florian Boudin</auteur>
+			<auteur>Béatrice Daille</auteur>
+		</auteurs>
+		<titre>TopicRank en domaines de spécialité : participation du LINA à DEFT 2016</titre>
+		<desc>Défi Fouille de Textes</desc>
+		<abbr>DEFT</abbr>
+		<annee>2016</annee>
+		<url>https://jep-taln2016.limsi.fr/actes/Actes%20JTR-2016/Papers/Ateliers/DEFT-6.pdf</url>
+		<lieu>Paris (France)</lieu>
+		<topic>nlp</topic>
+	</article>
 
 	<article id="boudin:2015:Keyphrase" type="workshop">
 		<auteurs>
