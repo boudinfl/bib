@@ -52,6 +52,21 @@
 
 	<!-- Articles de conférences internationales -->
 
+	<article id="bougouin-boudin-daille:2016:COLING" type="intConf">
+		<auteurs>
+			<auteur>Adrien Bougouin</auteur>
+			<auteur>Florian Boudin</auteur>
+			<auteur>Béatrice Daille</auteur>
+		</auteurs>
+		<titre>Keyphrase Annotation with Graph Co-Ranking</titre>
+		<desc>International Conference on Computational Linguistics</desc>
+		<abbr>COLING</abbr>
+		<annee>2016</annee>
+		<lieu>Osaka (Japan)</lieu>
+		<topic>nlp</topic>
+		<longueur>long paper</longueur>
+	</article>
+
 	<article id="bougouin-EtAL:2016:LREC" type="intConf">
 		<auteurs>
 			<auteur>Adrien Bougouin</auteur>
